@@ -1,4 +1,4 @@
-# Bonjour, je suis BARCOLA Vianney 👋
+# Bonjour, je suis BARCOLA Mazamesso 👋
 
 **Ingénieur IA & Big Data**, diplômé d'un Master Informatique spécialité IA & Big Data (Université de Lomé × UTBM, 2026). Je conçois des **agents IA qui tournent en production** et automatisent des processus métier. J'ai aussi livré une **application mobile** utilisée par une entreprise de livraison à Lomé.
 
